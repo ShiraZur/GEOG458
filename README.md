@@ -1,1 +1,1 @@
-<iframe src="Final Project/index.html" height="100%" width="100%"></iframe>
+<iframe src="Final Project/index.html" height="100vh" width="100vh"></iframe>
